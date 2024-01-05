@@ -157,10 +157,6 @@ main{
     display: flex;
     gap: 70px;
 }
-.resume-container hr{
-    background: #d1d1d1;
-    height: 0.1px;
-}
 .resume-column-title{
     color:#474747;
     font-size: 30px;
@@ -193,5 +189,8 @@ main{
     text-align: center;
     margin-top: 50px;
 }
-
+.resume-container hr{
+    background: #d1d1d1;
+    height: 0.1px;
+}
 

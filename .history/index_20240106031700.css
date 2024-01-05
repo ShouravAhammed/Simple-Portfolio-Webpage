@@ -12,6 +12,10 @@ ul, ol{
 body{
     font-family: 'Open Sans', sans-serif;
 }
+hr{
+    background: #D1D1D1;
+    height: 1px;
+}
 .text-primary{
     color: #FD6E0A;
 }
@@ -155,11 +159,7 @@ main{
 /* Resume sectionpart start */
 .resume-container{
     display: flex;
-    gap: 70px;
-}
-.resume-container hr{
-    background: #d1d1d1;
-    height: 0.1px;
+    gap: 50px;
 }
 .resume-column-title{
     color:#474747;
@@ -187,11 +187,5 @@ main{
     font-weight: 400;
     margin-top: 10px;
     margin-bottom: 30px;
-    padding-right: 50px;
 }
-.download-cv{
-    text-align: center;
-    margin-top: 50px;
-}
-
 
